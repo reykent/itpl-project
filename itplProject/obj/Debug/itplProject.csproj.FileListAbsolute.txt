@@ -1,0 +1,20 @@
+c:\users\vpc-s135fg\documents\visual studio 2012\Projects\itplProject\itplProject\bin\Debug\itplProject.exe.config
+c:\users\vpc-s135fg\documents\visual studio 2012\Projects\itplProject\itplProject\bin\Debug\itplProject.exe
+c:\users\vpc-s135fg\documents\visual studio 2012\Projects\itplProject\itplProject\bin\Debug\itplProject.pdb
+c:\users\vpc-s135fg\documents\visual studio 2012\Projects\itplProject\itplProject\obj\Debug\itplProject.csprojResolveAssemblyReference.cache
+c:\users\vpc-s135fg\documents\visual studio 2012\Projects\itplProject\itplProject\obj\Debug\itplProject.Properties.Resources.resources
+c:\users\vpc-s135fg\documents\visual studio 2012\Projects\itplProject\itplProject\obj\Debug\itplProject.csproj.GenerateResource.Cache
+c:\users\vpc-s135fg\documents\visual studio 2012\Projects\itplProject\itplProject\obj\Debug\itplProject.exe
+c:\users\vpc-s135fg\documents\visual studio 2012\Projects\itplProject\itplProject\obj\Debug\itplProject.pdb
+c:\users\vpc-s135fg\documents\visual studio 2012\Projects\itplProject\itplProject\obj\Debug\itplProject.employee.resources
+c:\users\vpc-s135fg\documents\visual studio 2012\Projects\itplProject\itplProject\obj\Debug\itplProject.generate.resources
+C:\Users\Developer\Desktop\itpl project\itplProject\bin\Debug\itplProject.exe.config
+C:\Users\Developer\Desktop\itpl project\itplProject\obj\Debug\itplProject.exe
+C:\Users\Developer\Desktop\itpl project\itplProject\obj\Debug\itplProject.pdb
+C:\Users\Developer\Desktop\itpl project\itplProject\bin\Debug\itplProject.exe
+C:\Users\Developer\Desktop\itpl project\itplProject\bin\Debug\itplProject.pdb
+C:\Users\Developer\Desktop\itpl project\itplProject\obj\Debug\itplProject.csprojResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\itpl project\itplProject\obj\Debug\itplProject.employee.resources
+C:\Users\Developer\Desktop\itpl project\itplProject\obj\Debug\itplProject.generate.resources
+C:\Users\Developer\Desktop\itpl project\itplProject\obj\Debug\itplProject.Properties.Resources.resources
+C:\Users\Developer\Desktop\itpl project\itplProject\obj\Debug\itplProject.csproj.GenerateResource.Cache

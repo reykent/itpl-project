@@ -1,0 +1,6 @@
+Report Generated at : 9/2/2013 7:41:31 PM
+ Department, Last Name, First Name, Salary
+---------------------------------
+Information Technology Education Department, Divinagracia, Joanel, 9150
+Information Technology Education Department, Van Rossum, Guido, 48750
+---------------------------------

@@ -1,0 +1,5 @@
+Report Generated at : 9/1/2013 11:18:26 PM
+ Department, Last Name, First Name, Salary
+---------------------------------
+Buisness Management Department, Torvalds, Linus, 12430
+---------------------------------
